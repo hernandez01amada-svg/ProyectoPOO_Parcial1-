@@ -121,3 +121,6 @@ s.calcular_costo()
 *Ejecución del programa*
 
 <img width="1355" height="763" alt="image" src="https://github.com/user-attachments/assets/087c8424-2db5-4b6a-a022-244d26a4c279" />
+
+---LINK DE EXPLICACIÓN DE VIDEO
+https://drive.google.com/file/d/17X2s5zuOysjumXp7DInCmxtslguTiydR/view?usp=sharing
